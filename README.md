@@ -27,7 +27,7 @@ handling and user feedback through message boxes.
 
 ### II.B Setup (With Virtual Machine)
 1. Launch VirtualBox. Open VirtualBox and start the virtual machine (VM).
-2. Open Visual Studio Inside VM. In the VM, launch Visual Studio Community and open the CRUD Demo project.
+2. Open Visual Studio Inside VM. In the VM, launch Visual Studio Community and open the CRUD Demo project ```Desktop > IT201 Files```.
 3. Test CRUD Operations. Run the project and verify the CRUD functionalities within the virtual environment.
 
 ### III. Group Tasks
