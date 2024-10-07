@@ -1,6 +1,17 @@
 # CSharp_CRUD
 Repository for CSharp CRUD Demo Item 08.
 
+> This C# Windows Forms project implements a basic CRUD (Create, Read, Update, Delete)
+application for managing vehicle records using a SQL Server database. The program allows users to add, view,
+update, and delete vehicle data, which includes details like make, model, year, price, and electric status.
+
+> It also allows users to upload and display vehicle images. The vehicle records are displayed in a DataGridView, 
+and database interactions are managed using ADO.NET with SqlConnection and SqlCommand. The project features error 
+handling and user feedback through message boxes.
+
+#### Preview
+![CSHARP_CRUD_DEMO_08]()
+
 ### I. Prerequisites
 - [ ] Visual Studio Community Edition (2019 or 2022): Ensure Visual Studio Community is installed, with .NET Desktop Development and SQL Server Data Tools.
 - [ ] SQL Server Express (2019 or 2022): SQL Server Express must be installed to manage the database for the application.
