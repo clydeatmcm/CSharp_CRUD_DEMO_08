@@ -1,2 +1,2 @@
 # CSharp_CRUD
-CSharp CRUD Repositories with Demos and Guided Projects
+Repository for CSharp CRUD Demo Item 08.
